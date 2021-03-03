@@ -4,7 +4,7 @@ JULIA:
 
 Make sure to have `IPFitting, ACE` installed! This should be as simple as
 
-`] registry add https://github.com/JuliaMolSim/MolSim.git`
+`] registry add https://github.com/JuliaMolSim/MolSim.git` \\
 `] add IPFitting, ACE, JuLIP, ASE`
 
 Otherwise you can do
